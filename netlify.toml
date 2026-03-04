@@ -1,0 +1,6 @@
+[build]
+  command = "git clone https://github.com/flutter/flutter.git --depth 1 -b stable flutter-sdk && export PATH=$PATH:$PWD/flutter-sdk/bin && flutter pub get && flutter build web --release"
+  publish = "build/web"
+
+[build.environment]
+  FLUTTER_VERSION = "stable"
