@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "254149259649",
+    "project_id": "airsoft-romanov",
+    "storage_bucket": "airsoft-romanov.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254149259649:android:deecfaba0f3ff9e466f880",
+        "android_client_info": {
+          "package_name": "com.mycompany.airsoftarenaadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesivpAr-QQ3jTGIbXc-P_-8FW5p4-ZCs"
+        },
+        {
+          "current_key": "AIzaSyC2wPxki-HJVaAghjxZnL-0zzOb8M1O_qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254149259649:android:7207eaa5bc71590a66f880",
+        "android_client_info": {
+          "package_name": "com.romanovdev.airsoftarena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesivpAr-QQ3jTGIbXc-P_-8FW5p4-ZCs"
+        },
+        {
+          "current_key": "AIzaSyC2wPxki-HJVaAghjxZnL-0zzOb8M1O_qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
